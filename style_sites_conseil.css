@@ -1,0 +1,27 @@
+﻿body {
+    background-color: rgba(255, 255, 255, 0.95);
+    color: darkred;
+    width: 1000px;
+    padding: 2px 2px 2px 2px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+html {
+    background-image: url(https://www.explainxkcd.com/wiki/images/0/08/pi_vs_tau.png);
+    background-repeat: no-repeat;
+    background-position: center 350px;
+    background-size: 500px;
+    background-color: rgb(2, 134, 6);
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: blueviolet;
+}
+li li{
+    list-style-type : square
+}
