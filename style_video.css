@@ -1,0 +1,21 @@
+﻿body {
+    background-color: rgb(131, 0, 0);
+    color: white;
+    width: 1000px;
+    padding: 2px 5px 2px 10px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+html {
+    background-image: url(https://etapes.com/app/uploads/2017/08/1504099686.png);
+    background-repeat: no-repeat;
+    background-position: center 212px;
+    background-size: 1003px;
+    background-color : rgba(131, 0, 0, 0.75);
+}
+a:link{
+    color : white;
+}
+a:visited{
+    color : lightgray;
+}

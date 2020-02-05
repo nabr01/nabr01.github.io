@@ -1,0 +1,27 @@
+﻿body {
+    background-color: rgba(90, 125, 147,0.80);
+    color: black;
+    width: 1000px;
+    padding: 2px 5px 2px 10px;
+    margin: 10px auto;
+    border: 1px solid black;
+}
+
+html {
+    background-image: url(https://cdn.radiofrance.fr/s3/cruiser-production/2019/03/4eedc6a5-815b-47d0-a95f-080e181a72bb/838_nuagegettyimages-184103864.webp);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    background-color: rgba(0, 171, 54, 0.95);
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: darkgoldenrod;
+}
+li li{
+    list-style-type : square
+}
